@@ -8,7 +8,7 @@ Kelvin Nyoike
 
 ## Github Repo
 
-The project code is hosted on GitHub at [https://github.com/kelvin901/Phase2-Project-World-Cup-History](https://github.com/kelvin901/Phase2-Project-World-Cup-History).
+The project code is hosted on GitHub at [https://github.com/kelvin901/Phase2-Project-World-Cup-History]
 
 ## Deployed Link
 
