@@ -1,3 +1,65 @@
+## World Cup History
+
+This is a project that showcases the history of the FIFA World Cup. It provides information on past World Cup tournaments, including the winners, the host countries, and the top goal scorers. The data is presented in an interactive way that allows users to filter and search for specific information.
+
+## Author
+
+Kelvin Nyoike
+
+## Github Repo
+
+The project code is hosted on GitHub at [https://github.com/kelvin901/Phase2-Project-World-Cup-History](https://github.com/kelvin901/Phase2-Project-World-Cup-History).
+
+## Deployed Link
+
+The project is deployed on Vercel at [https://phase2-project-world-cup-history.vercel.app/](https://phase2-project-world-cup-history.vercel.app/).
+
+## How to Run the Project
+
+To run the project on your local machine, follow these steps:
+
+1. Clone the GitHub repository by running the following command in your terminal:
+
+   ```
+   git clone git@github.com:kelvin901/Phase2-Project-World-Cup-History.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```
+   cd Phase2-Project-World-Cup-History
+   ```
+
+3. Install the project dependencies:
+
+   ```
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```
+   npm start
+   ```
+
+   The project should now be running on [http://localhost:3000](http://localhost:3000).
+
+## Technologies Used
+
+The project was built using the following technologies:
+
+- React
+- CSS
+- REST API
+- Vercel (for deployment)
+
+## Credits
+
+The project data was obtained from [FIFA.com](https://www.fifa.com/). The project design was inspired by [https://dribbble.com/shots/2360496-World-Cup-2018](https://dribbble.com/shots/2360496-World-Cup-2018).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -16,8 +78,8 @@ You may also see any lint errors in the console.
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Launches the test runner in the interactive watch mode
+
 
 ### `npm run build`
 
@@ -27,7 +89,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
 
 ### `npm run eject`
 
@@ -39,33 +101,5 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # Phase2-Project-World-Cup-History
