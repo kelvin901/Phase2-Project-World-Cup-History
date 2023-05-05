@@ -8,7 +8,7 @@ function About() {
         <h2>HISTORY</h2>
         <p>
           The FIFA World Cup is the most prestigious football competition in the world.
-          It is also the most watched sporting event in the world having a viewership of <a href="https://worldsoccertalk.com/2022/05/04/how-many-people-watch-the-world-cup/">562 million</a> during the 2022 finals.
+          It is also the most watched sporting event in the world having a viewership of 562 million  during the 2022 finals.
           Played every four years, the World Cup hosts the top 32 national teams in a monthlong tournament.
           The host country is selected by FIFA's Council.
           The FIFA World Cup was first held in 1930, when FIFA, the world's football governing body, decided to stage an international men's 
