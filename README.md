@@ -1,10 +1,21 @@
 
 
 # World Cup History
-
-This project is called "World Cup History" and it was developed by Kelvin Nyoike. It is a web application developed using React, HTML, CSS, and JavaScript. The project also uses some routers to handle the navigation between the different components.
-
 The purpose of this project is to provide users with information about the history of the FIFA World Cup. Users can access information about the different World Cup tournaments, including the winners, runners-up, and the countries that hosted each tournament.
+
+
+## Author 
+Kelvin Nyoike
+
+## Development Languages
+HTML
+CSS
+JAVASCRIPT
+REACT
+ROUTER DOM
+
+
+
 
 ## GitHub Repository
 
