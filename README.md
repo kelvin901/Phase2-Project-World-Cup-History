@@ -39,3 +39,6 @@ To build the project, navigate to the project directory in your terminal and run
 `npm run build`
 
 This will create a `build` folder in the project directory containing the optimized production build of the application.
+
+## Conclusion
+Thank you for taking the time to read this README file for the World Cup History project. We hope that you find this project informative and enjoyable to use!
