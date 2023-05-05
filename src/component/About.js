@@ -19,7 +19,7 @@ function About() {
         <p>
           First introduced in 1982, the 'Golden Ball' is presented to the best player at a FIFA World Cup tournament. Discover the winners of the prestigious prize. Each FIFA World Cup concludes with a
           selection of awards given to players who have
-          distinguished themselves during the competition
+          distinguished themselves during the competition.
         </p>
         <p>
           <span id="bold">Argentina's</span> Lionel Messi became the only man to win the Award twice, in 2014 and 2022.
@@ -42,7 +42,7 @@ function About() {
           Players 21 years old and younger are eligible for the Best Young Player award.
 
           As of November 2022, Northern Ireland's Norman Whiteside was the youngest player to ever play in a World Cup,
-          aged 17 years and 40 days when he played against Yugoslavia in 1982
+          aged 17 years and 40 days when he played against Yugoslavia in 1982.
         </p>
       </div>
       <div className="trophyImg">
