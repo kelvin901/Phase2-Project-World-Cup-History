@@ -1,105 +1,58 @@
-## World Cup History
 
-This is a project that showcases the history of the FIFA World Cup. It provides information on past World Cup tournaments, including the winners, the host countries, and the top goal scorers. The data is presented in an interactive way that allows users to filter and search for specific information.
 
-## Author
+# World Cup History
 
-Kelvin Nyoike
+This is a React project that displays information about past FIFA World Cup tournaments. It is coded by Kelvin Nyoike and uses languages such as React, CSS, HTML, and JavaScript. The project also contains some routers for navigation.
 
-## Github Repo
+## Github Repository
 
-The project code is hosted on GitHub at [https://github.com/kelvin901/Phase2-Project-World-Cup-History]
+The Github repository for this project can be found at https://github.com/kelvin901/Phase2-Project-World-Cup-History. 
 
-## Deployed Link
+## Cloning the Repository
 
-The project is deployed on Vercel at [https://phase2-project-world-cup-history.vercel.app/](https://phase2-project-world-cup-history.vercel.app/).
+To clone this repository to your local machine, follow these steps:
 
-## How to Run the Project
-
-To run the project on your local machine, follow these steps:
-
-1. Clone the GitHub repository by running the following command in your terminal:
+1. Open your terminal and navigate to the directory where you want to store the project.
+2. Run the following command: 
 
    ```
-   git clone git@github.com:kelvin901/Phase2-Project-World-Cup-History.git
+   git clone https://github.com/kelvin901/Phase2-Project-World-Cup-History.git
    ```
-
-2. Navigate to the project directory:
+   
+3. Once the repository has been cloned, navigate to the project directory by running the following command:
 
    ```
    cd Phase2-Project-World-Cup-History
    ```
 
-3. Install the project dependencies:
+4. Next, run the following command to install the project dependencies:
 
    ```
    npm install
    ```
 
-4. Start the development server:
+5. Finally, run the following command to start the development server:
 
    ```
    npm start
    ```
 
-   The project should now be running on [http://localhost:3000](http://localhost:3000).
+## Deployment
 
-## Technologies Used
+The project is deployed using a free deployment app known as Vercel app. The deployment link can be found at https://phase2-project-world-cup-history.vercel.app/.
 
-The project was built using the following technologies:
+## Builds and Tests
 
-- React
-- CSS
-- REST API
-- Vercel (for deployment)
+This project was built using React, and it includes some unit tests for certain components. The tests are run using the Jest testing library, which is included as a dev dependency in the project's package.json file.
 
-## Credits
+To run the tests, simply run the following command in the project directory:
 
-The project data was obtained from [FIFA.com](https://www.fifa.com/). The project design was inspired by [https://dribbble.com/shots/2360496-World-Cup-2018](https://dribbble.com/shots/2360496-World-Cup-2018).
+```
+npm test
+``` 
 
-## License
+This will start the Jest test runner, which will run all of the unit tests in the project. The results of the tests will be displayed in the terminal, along with any errors or warnings that were encountered during testing.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-# Getting Started with Create React App
+## Conclusion
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode
-
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-
-# Phase2-Project-World-Cup-History
+Thank you for taking the time to read this README file for the World Cup History project. We hope that you find this project informative and enjoyable to use!
