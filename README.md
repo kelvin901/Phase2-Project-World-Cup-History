@@ -48,6 +48,15 @@ This project has been tested manually to ensure that all the components and feat
 To build the project, navigate to the project directory in your terminal and run the following command:
 
 `npm run build`
+Builds and Tests
+This project was built using React, and it includes some unit tests for certain components. The tests are run using the Jest testing library, which is included as a dev dependency in the project's package.json file.
+
+To run the tests, simply run the following command in the project directory:
+
+bash
+Copy code
+npm test
+This will start the Jest test runner, which will run all of the unit tests in the project. The results of the tests will be displayed in the terminal, along with any errors or warnings that were encountered during testing.
 
 This will create a `build` folder in the project directory containing the optimized production build of the application.
 
