@@ -2,57 +2,40 @@
 
 # World Cup History
 
-This is a React project that displays information about past FIFA World Cup tournaments. It is coded by Kelvin Nyoike and uses languages such as React, CSS, HTML, and JavaScript. The project also contains some routers for navigation.
+This project is called "World Cup History" and it was developed by Kelvin Nyoike. It is a web application developed using React, HTML, CSS, and JavaScript. The project also uses some routers to handle the navigation between the different components.
 
-## Github Repository
+The purpose of this project is to provide users with information about the history of the FIFA World Cup. Users can access information about the different World Cup tournaments, including the winners, runners-up, and the countries that hosted each tournament.
 
-The Github repository for this project can be found at https://github.com/kelvin901/Phase2-Project-World-Cup-History. 
+## GitHub Repository
+
+This project is hosted on GitHub at the following repository: https://github.com/kelvin901/Phase2-Project-World-Cup-History
 
 ## Cloning the Repository
 
-To clone this repository to your local machine, follow these steps:
+To clone this repository to your local machine, follow the steps below:
 
-1. Open your terminal and navigate to the directory where you want to store the project.
-2. Run the following command: 
+1. Open your terminal and navigate to the directory where you want to clone the repository.
+2. Type `git clone https://github.com/kelvin901/Phase2-Project-World-Cup-History.git` and press enter.
+3. After the repository has been cloned, navigate to the project directory by typing `cd Phase2-Project-World-Cup-History`.
 
-   ```
-   git clone https://github.com/kelvin901/Phase2-Project-World-Cup-History.git
-   ```
-   
-3. Once the repository has been cloned, navigate to the project directory by running the following command:
+## Running the Project
 
-   ```
-   cd Phase2-Project-World-Cup-History
-   ```
+To run the project, make sure you have Node.js installed on your machine. Then, navigate to the project directory in your terminal and run the following commands:
 
-4. Next, run the following command to install the project dependencies:
-
-   ```
-   npm install
-   ```
-
-5. Finally, run the following command to start the development server:
-
-   ```
-   npm start
-   ```
+1. Type `npm init` to install all the project dependencies.
+2. Type `npm start` to start the project.
+3. Open your web browser and go to http://localhost:3000/ to view the application.
 
 ## Deployment
 
-The project is deployed using a free deployment app known as Vercel app. The deployment link can be found at https://phase2-project-world-cup-history.vercel.app/.
+This project has been deployed using Vercel, a free deployment app. The deployment link is https://phase2-project-world-cup-history.vercel.app/
 
 ## Builds and Tests
 
-This project was built using React, and it includes some unit tests for certain components. The tests are run using the Jest testing library, which is included as a dev dependency in the project's package.json file.
+This project has been tested manually to ensure that all the components and features are functioning as expected. It has also been built using React's production build process to optimize performance and minimize the size of the final application. 
 
-To run the tests, simply run the following command in the project directory:
+To build the project, navigate to the project directory in your terminal and run the following command:
 
-```
-npm test
-``` 
+`npm run build`
 
-This will start the Jest test runner, which will run all of the unit tests in the project. The results of the tests will be displayed in the terminal, along with any errors or warnings that were encountered during testing.
-
-## Conclusion
-
-Thank you for taking the time to read this README file for the World Cup History project. We hope that you find this project informative and enjoyable to use!
+This will create a `build` folder in the project directory containing the optimized production build of the application.
