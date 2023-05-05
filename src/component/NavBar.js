@@ -4,7 +4,7 @@ import { NavLink } from "react-router-dom";
 function NavBar() {
   return(
     <div className="navbar navbar-expand-lg ">
-      <a className="navbar-brand">World's Cup History</a>
+      <a className="navbar-brand">World Cup History</a>
       <div>
         <ul className="navbar-nav mr-auto">
           <li className="nav-item">
